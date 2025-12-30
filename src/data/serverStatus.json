@@ -1,0 +1,10 @@
+{
+  "status": "OK",
+  "mysql": "running",
+  "mailqueue": 0,
+  "load": 0.15,
+  "rootfs": 23,
+  "tmpfs": 12,
+  "website": "online"
+}
+
